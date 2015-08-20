@@ -13,3 +13,7 @@ Usaremos o serviço adsense do google, para usuários não-premium. Cobraremos u
 mongodb invés do mysql
 
 Foi observado uma dificuldade na leitura de hqs no cenário atual de websites, tendo isso em vista, o nosso projeto visa revolucionar o modo de visualização dos mesmos, agilizando o processo de carregamento das páginas da HQ e também com um sistema de login divido em perfis, para ajustes de preferências.
+
+Proposta pro pessoal estudar: Laravel pros back, javascript e depois angular js para os front
+e todo mundo da uma estudada sobre git.
+
